@@ -4,9 +4,9 @@
   <p align="center">Looking for Instagram automation? I'm proud to present you a <b>InstabotClub Instagram Bot.</b>. This bot will allow you to grow your following and engagement by liking, following, commenting and sending PM automatically with your Android phone/tablet/emulator. <b>No root required.</b> <p>
 </p>
 
-<br />
+
 ## Cool! What can I do with this bot? 
-<br />
+
 - Works without rooting
 - Works with both emulators and physical devices
 - Can be used stand-alone (without the use of a computer)
